@@ -50,8 +50,3 @@ print(x)
 print(y)
 from grafico import mostrar
 mostrar(x,y)
-
-
-
-
-
