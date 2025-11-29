@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 def mostrar(x, y):
-    plt.plot(x, y, color="#0066FF", linestyle='-',marker='')
+    plt.plot(x, y, color="#0066FF", linestyle='-',marker='o')
 
     plt.title('Gráfico da função')
     plt.xlabel('Eixo X')

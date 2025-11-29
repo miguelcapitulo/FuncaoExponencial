@@ -43,3 +43,4 @@ def funcao_exponencial():
         x.append(i)
         i +=1
     return list(resultados), list(x)
+

@@ -7,4 +7,8 @@ while True:
     y=resultado[0]
     print(x)
     print(y)
+    c=0
+    while c < len(x):
+        print(f"({x[c]}, {y[c]})")
+        c+=1
     mostrar(x, y)
